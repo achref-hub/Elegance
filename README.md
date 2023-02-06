@@ -1,5 +1,4 @@
 # Elegance
-Presentation
 Elegance is an application in which the user scan his clothes, and they will be categorized and organized for easy access.
 
 Also, This application will help the user in his daily outfits by proposing them basing on his preferences and the context he chooses (Work,Party,....).
